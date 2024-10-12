@@ -1,4 +1,4 @@
-## Welcome to My Cybersecurity Joruney 
+# <span style="color:purple">Welcome to My Cybersecurity Joruney</span>
 
 
 
